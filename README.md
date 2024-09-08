@@ -1,3 +1,9 @@
+## Braintree Analytics Code Challenge - SQL Solution
+This repository contains my attempt at the Braintree Analytics Code Challenge. Below, you’ll find the instructions provided by the creators of the challenge, along with a link to my code in Jupyter Notebook, where I utilized a local PostgreSQL database to perform the required tasks.
+
+[Link to the code in Jupyter Notebook](https://github.com/ianaprojects/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/sql_challenge.ipynb)
+
+
 ### Introduction
 
 Welcome to the Braintree Analytics Code Challenge!
